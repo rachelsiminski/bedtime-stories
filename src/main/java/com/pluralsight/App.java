@@ -11,7 +11,7 @@ public class App {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Which story would you like to read?");
         String fileName = scanner.nextLine();
-        int i = 0;
+        int i = 1;
 
         try {
 
